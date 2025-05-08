@@ -7,6 +7,16 @@ import SlideUp from "./SlideUp";
 
 const projects = [
   {
+    name: "PokeTeamPlanner",
+    description:
+      "Pokemon Team Analytics using Comparitive Analysis",
+    image: "/Poke-Team-Analysis.png",
+    github: "https://github.com/JawwadK/pokemon-team-analysis",
+    link: "https://pokemon-team-analysis.vercel.app/",
+    technologies: ["NextJS", "TypeScript", "React", "PokeAPI"],
+    featured: true,
+  },
+  {
     name: "Braum.GG",
     description: "League of Legends Analytics Tool",
     image: "/Braum.GG.png",
@@ -26,7 +36,7 @@ const projects = [
   },
   {
     name: "Twxt",
-    description: "Quick Practice App made for DigitalOcean Hackathon practice",
+    description: "PoC app made for Cooperathon Innovation Challenge",
     image: "/twxt.png",
     github: "https://github.com/JawwadK/twxt",
     link: "https://twxt.vercel.app/",
