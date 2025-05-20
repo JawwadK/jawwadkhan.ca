@@ -9,7 +9,7 @@ const projects = [
   {
     name: "PokeTeamPlanner",
     description:
-      "Pokemon Team Analytics using Comparitive Analysis",
+      "Pokemon Team Optimization using Comparitive Analysis",
     image: "/Poke-Team-Analysis.png",
     github: "https://github.com/JawwadK/pokemon-team-analysis",
     link: "https://pokemon-team-analysis.vercel.app/",

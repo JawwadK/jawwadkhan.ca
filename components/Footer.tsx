@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="mx-auto p-4 flex flex-col text-center text-neutral-900 md:flex-row md:justify-between">
           <div className="text-neutral-500 dark:text-neutral-100">
             <p>
-              © Jawwad Khan 2024 | Built with{" "}
+              © Jawwad Khan 2025 | Built with{" "}
               <a
                 className="text-neutral-600 hover:text-neutral-300"
                 href="https://nextjs.org/"
